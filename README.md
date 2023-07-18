@@ -73,9 +73,6 @@
 
 <br />
 
-## Demo
-
-### [Click here to see the Presentation video](https://www.linkedin.com/feed/update/urn:li:activity:6891074898144698368/)
 
 
 <br/>
@@ -92,67 +89,6 @@ This project was built using React, Chakra UI, CSS, JavaScript, Node JS, Express
 - Node JS
 - MongoDB
 
-### Setup
-
-
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Facebook-Clone) or just clone the project using this command. 
-
-
-```
-Using HTTPS
-
-# git clone  https://github.com/m-sehrawat/Facebook-Clone.git
-```
-
-+ Open terminal on your workspace with
-
-```
-cd /home/workspace/Facebook-Clone
-```
-
-
-## Install
-
-Install NPM
-
-Check that you have node and npm installed
-
-To check if you have Node.js installed, run this command in your terminal:
-
-
-```
-node -v
-```
-
-To confirm that you have npm installed you can run this command in your terminal:
-
-
-```
-npm -v
-```
-
-To confirm that you have MongoDB installed you can run this command in your terminal:
-
-
-```
-mongo -v
-```
-
-
-To install all the dependences of the project, run the following command:
-
-
-```
-npm install
-```
-
-
-To run the application got to the client folder and run the following command:
-
-```
-npm start
-```
-
 
 ### Tools used on this project
 
@@ -162,26 +98,4 @@ npm start
 
 <br/>
 
-## Contributors
 
-- [Bhargav Katira](https://github.com/bhargavkatira)
-- [Swarnnika Raj Singh](https://github.com/swarnikaraj)
-
-
-
-
-
-<h2>📬 Contact</h2>
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![Twitter](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
-
-© 2022 Mohit Sehrawat
-
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
